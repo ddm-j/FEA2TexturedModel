@@ -1,0 +1,11 @@
+idea
+__pycache__/
+data/ACIM_topOpt.stl
+data/stress_map_acim.csv
+image2video/*
+results/texturedModel/*
+results/animatedModel/frames/*
+results/animatedModel/intermediary/*
+results/animatedModel/*.obj
+results/animatedModel/*.mtl
+results/animatedModel/*.png
