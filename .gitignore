@@ -1,5 +1,5 @@
-.idea
-__pycache__
+/.idea
+/__pycache__
 data/ACIM_topOpt.stl
 data/stress_map_acim.csv
 image2video/**
