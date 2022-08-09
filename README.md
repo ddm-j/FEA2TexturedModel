@@ -1,7 +1,6 @@
 # FEA2TexturedModel
 
-![topology_optimized fea simulation](http://brandonjohnson.design/wp-content/uploads/2022/07/FEA_glowing_render.png)
-<img src='http://brandonjohnson.design/wp-content/uploads/2022/07/FEA_glowing_render.png'>
+![topology_optimized fea texture](https://github.com/ddm-j/FEA2TexturedModel/blob/master/texturedModelRender.png)
 
 Converts a 3D mesh file (STL, OBJ, etc) and a corresponding scalar point map file (stress, strain, pressure, vorticity, etc) into a single colormapped, textured 3D model in OBJ/MTL format. 
 
