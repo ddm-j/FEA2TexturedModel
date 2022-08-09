@@ -1,6 +1,10 @@
 # FEA2TexturedModel
 
+## Create Static Colormapped Texture from Scalar Point-map Data (FEA in Example)
 ![topology_optimized fea texture](https://github.com/ddm-j/FEA2TexturedModel/blob/master/demo/texturedModelRender.png)
+
+## Created Animated Video Texture from Scalar Point-map Data (Transient FEA in Example)
+![topology_optimized animated texture](https://github.com/ddm-j/FEA2TexturedModel/blob/master/demo/animatedModelRender.gif)
 
 Converts a 3D mesh file (STL, OBJ, etc) and a corresponding scalar point map file (stress, strain, pressure, vorticity, etc) into a single colormapped, textured 3D model in OBJ/MTL format. 
 
