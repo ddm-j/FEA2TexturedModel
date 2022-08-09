@@ -2,6 +2,4 @@
 /__pycache__
 data/ACIM_topOpt.stl
 data/stress_map_acim.csv
-image2video/**
-results/**
-!results/**/
+results/animatedModel/intermediary/*.npy

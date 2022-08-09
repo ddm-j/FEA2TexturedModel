@@ -144,6 +144,7 @@ def main(geometryfile, datapath, steps, cmap, length, fps):
                 ms.apply_filter("transfer_vertex_color_to_texture", textname="pointmap_texture_{1}".format(image_folder, i), textw=texture_dimension, texth=texture_dimension)
                 # texture file won't be saved until you save the mesh
                 ms.save_current_mesh("results/animatedModel/{0}_animated.obj".format(meshname))
+                time.sleep(0.5)
 
                 # Move texture file to different folder
                 shutil.move('results/animatedModel/pointmap_texture_{0}.png'.format(i), '{0}/pointmap_texture_{1}.png'.format(image_folder, i))

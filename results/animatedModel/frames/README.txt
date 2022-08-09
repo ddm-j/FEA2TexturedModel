@@ -1,0 +1,1 @@
+frames for the video texture will be output to this folder.
